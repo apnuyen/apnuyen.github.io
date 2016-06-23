@@ -1,0 +1,24 @@
+body {
+  font-family: courier;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  letter-spacing: 14px;
+}
+
+a {
+  font-family: Arial;
+  color: green;
+  text-decoration: line-through;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ol {
+  list-style-position: inside;
+  padding: 0;
+}
