@@ -1,0 +1,21 @@
+# Site settings
+title: Can I Haz New Job
+header-img: img/home-bg.png
+email: annuyen@gmail.com
+copyright_name: apnuyen
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a soulless digital marketer, help me
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  apnuyen
+learn_profile: apnuyen
+email_username: annuyen@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
